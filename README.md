@@ -8,9 +8,8 @@ This profile has the purpose of uploading some modded stuff into github. Stuff c
 #Kind of Stuff
 Modded Stuff includes:
   > - ***Modded*** APK's
-  > - ***Modded*** Github Stuf
-
-    > - ***Modded*** Websites
-    > - ***Modded*** Scripts
-    > - ***Modded*** Python Programs
+  > - ***Modded*** Github Stuff
+      - ***Modded*** Websites
+      - ***Modded*** Scripts
+      - ***Modded*** Python Programs
   > - Modded 
