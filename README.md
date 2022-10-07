@@ -21,4 +21,4 @@
 - [x] Fork ***General Mathematics'*** Repository. **CREDIT:** [GeneralMathematics "REPO"](https://github.com/GeneralMathematics/General-Mathematics-Beta)
 - [ ] Start Modding ***Forked Repositories***
 - [x] Start ***deploying Repositories*** into [Replit](https://replit.com)
-- [ ] Fork -- A Potato🥔 -- ***MORE Repositories***
+- [ ] Fork ~~A Potato🥔~~ ***MORE Repositories***
