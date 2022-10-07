@@ -6,9 +6,10 @@
 This profile has the purpose of uploading some modded stuff into github. Stuff can be from my own creation and it can also be from somebody else.
 
 #Kind of Stuff
-> Modded Stuff includes:
+Modded Stuff includes:
   > - ***Modded*** APK's
-  > - ***Modded*** Github Stuff
+  > - ***Modded*** Github Stuf
+
     > - ***Modded*** Websites
     > - ***Modded*** Scripts
     > - ***Modded*** Python Programs
