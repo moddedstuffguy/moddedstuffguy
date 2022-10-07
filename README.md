@@ -15,10 +15,10 @@
 > - ***Modded*** Tools
 
 ## My Task List:
-[x] Create ***Github Profile***
-[] Upload📤 ***Profile Picture***
-[x] Create ***✨SPECIAL✨*** README.md
-[x] Fork ***General Mathematics'*** Repository. **CREDIT:** [GeneralMathematics "REPO"](https://github.com/GeneralMathematics/General-Mathematics-Beta)
-[] Start Modding ***Forked Repositories***
-[x] Start ***deploying Repositories*** into [Replit](https://replit.com)
-[] Fork --A Potato🥔-- ***MORE Repositories***
+- [x] Create ***Github Profile***
+- [] Upload📤 ***Profile Picture***
+- [x] Create ***✨SPECIAL✨*** README.md
+- [x] Fork ***General Mathematics'*** Repository. **CREDIT:** [GeneralMathematics "REPO"](https://github.com/GeneralMathematics/General-Mathematics-Beta)
+- [] Start Modding ***Forked Repositories***
+- [x] Start ***deploying Repositories*** into [Replit](https://replit.com)
+- [] Fork --A Potato🥔-- ***MORE Repositories***
