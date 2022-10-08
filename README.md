@@ -1,5 +1,6 @@
 # Hi there 👋
-![Profile Picture APK](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOIrpEnyNe7uOZ8h1h1F2Hm-bxBHgm8yfiCPlW9Dd7mWjSve1Ih4f0SgxgGbHeRshR5E&usqp=CAU)
+### Profile picture
+<img align="right" width="225" height="225" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOIrpEnyNe7uOZ8h1h1F2Hm-bxBHgm8yfiCPlW9Dd7mWjSve1Ih4f0SgxgGbHeRshR5E&usqp=CAU">
 ## Welcome to ***MODDED STUFF GUY's*** GITHUB PROFILE! 🎉
 
 ### Purpose of this Profile
