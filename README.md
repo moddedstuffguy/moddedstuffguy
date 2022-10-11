@@ -21,6 +21,6 @@
 - [x] Create ***✨SPECIAL✨*** README.md
 - [x] Fork ***General Mathematics*** Repository. **CREDIT:** [GeneralMathematics REPO](https://github.com/GeneralMathematics/General-Mathematics-Beta)
 - [x] Deploy GeneralMathsMOD to [Replit](https://replit.com)
-- [ ] Fork: ~~A Potato🥔~~ ***MORE Repositories***
+- [ ] Fork ~~A Potato🥔~~ ***MORE Repositories***
 - [ ] Start **Modding *Forked* Repositories**
 - [ ] Start **deploying *more* Repositories** into [Replit](https://replit.com)
