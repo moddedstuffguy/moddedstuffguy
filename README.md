@@ -21,6 +21,9 @@
 - [x] Create ***✨SPECIAL✨*** README.md
 - [x] Fork ***General Mathematics*** Repository. **CREDIT:** [GeneralMathematics REPO](https://github.com/GeneralMathematics/General-Mathematics-Beta)
 - [x] Deploy GeneralMathsMOD to [Replit](https://replit.com)
+- [x] Create `moddedstuffguy.github.io` repository 
+- [x] Add the `Modded Stuff Index` to my github website. (See [My Profile Information](https://github.com/moddedstuffguy) to access the website)
 - [ ] Fork ~~A Potato🥔~~ ***MORE Repositories***
 - [ ] Start **Modding *Forked* Repositories**
 - [ ] Start **deploying *more* Repositories** into [Replit](https://replit.com)
+- [ ] Search for ***another*** website that *allows* the user to ***edit*** the *source code* (Such as **Replit**) and deploy/run it.
