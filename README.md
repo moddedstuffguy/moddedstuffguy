@@ -32,3 +32,6 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 
 ## My best repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=GeneralMathsMOD&theme=synthwave)](https://github.com/moddedstuffguy/GeneralMathsMOD)
+
+## My Stats
+[![ModdedStuffGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=moddedstuffguy&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
