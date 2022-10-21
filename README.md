@@ -1,6 +1,6 @@
 # Hi there👋 You found me!
 
-<img alt="PROFILE PICTURE" align="right" width="225" height="225" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOIrpEnyNe7uOZ8h1h1F2Hm-bxBHgm8yfiCPlW9Dd7mWjSve1Ih4f0SgxgGbHeRshR5E&usqp=CAU">
+<img alt="PROFILE PICTURE" align="right" width="205" height="205" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOIrpEnyNe7uOZ8h1h1F2Hm-bxBHgm8yfiCPlW9Dd7mWjSve1Ih4f0SgxgGbHeRshR5E&usqp=CAU">
 
 ## Welcome to ***MODDED STUFF GUY's*** GITHUB :octocat: PROFILE! 🎉
 
@@ -29,6 +29,7 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [ ] Start **deploying *more* Repositories** into [Replit](https://replit.com) and [Koyeb](https://koyeb.com)
 - [x] Search for ***another*** website that *allows* the user to ***edit*** the *source code* (Such as **Replit**) and deploy/run it.
 - [ ] Start using **Koyeb**
+- [x] Add stats to my PROFILE! 
 
 ## My best repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=GeneralMathsMOD&theme=synthwave)](https://github.com/moddedstuffguy/GeneralMathsMOD)
