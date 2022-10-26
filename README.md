@@ -23,7 +23,7 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [x] Fork ***General Mathematics*** Repository. **CREDIT:** [GeneralMathematics REPO](https://github.com/GeneralMathematics/General-Mathematics-Beta)
 - [x] Deploy GeneralMathsMOD to [Replit](https://replit.com)
 - [x] Create `moddedstuffguy.github.io` repository 
-- [x] Add the `Modded Stuff Index` to my github website. (See [My Profile Information](https://github.com/moddedstuffguy) to access the website)
+- [x] Add the `Modded Stuff Index` to my [Github Website](https://moddedstuffguy.github.io)
 - [ ] Fork ~~A Potato🥔~~ ***MORE Repositories***
 - [ ] Start **Modding *Forked* Repositories**
 - [ ] Start **deploying *more* Repositories** into [Replit](https://replit.com) and [Koyeb](https://koyeb.com)
