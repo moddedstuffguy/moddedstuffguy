@@ -25,10 +25,13 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [x] Create `moddedstuffguy.github.io` repository 
 - [x] Add the `Modded Stuff Index` to my [Github Website](https://moddedstuffguy.github.io)
 - [ ] Fork ~~A Potato🥔~~ ***MORE Repositories***
-- [ ] Start **Modding *Forked* Repositories**
-- [ ] Start **deploying *more* Repositories** into [Replit](https://replit.com) and [Koyeb](https://koyeb.com)
-- [x] Search for ***another*** website that *allows* the user to ***edit*** the *source code* (Such as **Replit**) and deploy/run it.
-- [ ] Start using **Koyeb**
+- [ ] *Start* **Modding *Forked* Repositories**
+- [ ] *Start **deploying** more Repositories* into [Replit](https://replit.com) and [Koyeb](https://koyeb.com)
+- [x] *Search* for ***another*** website that *allows* the user to ***edit*** the *source code* (Such as **Replit**) and deploy/run it.
+- [x] *Register* on **Koyeb**
+- [ ] *Start* using **Koyeb**
+- [x] *Register* on **Vercel**
+- [ ] *Start* using **Vercel**
 - [x] Add stats to my PROFILE! 
 
 ## My best repositories
