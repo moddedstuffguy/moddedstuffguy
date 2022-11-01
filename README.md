@@ -35,7 +35,7 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=GeneralMathsMOD&theme=synthwave)](https://github.com/moddedstuffguy/GeneralMathsMOD)
 
 ## My Stats
-![My STATS](https://raw.githubusercontent.com/moddedstuffguy/mySTATS/master/generated/overview.svg)
-![My STATS](https://raw.githubusercontent.com/moddedstuffguy/mySTATS/master/generated/languages.svg)
+![My STATS](https://raw.githubusercontent.com/moddedstuffguy/mySTATS/master/generated/overview.svg#gh-dark-mode-only)
+![My STATS](https://raw.githubusercontent.com/moddedstuffguy/mySTATS/master/generated/languages.svg#gh-dark-mode-only)
 [![ModdedStuffGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=moddedstuffguy&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=moddedstuffguy&theme=chartreuse-dark&border_radius=4.6)](https://git.io/streak-stats)
