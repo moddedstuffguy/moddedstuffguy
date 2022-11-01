@@ -24,6 +24,7 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [x] Deploy GeneralMathsMOD to [Replit](https://replit.com)
 - [x] Create `moddedstuffguy.github.io` repository 
 - [x] Add the `Modded Stuff Index` to my [Github Website](https://moddedstuffguy.github.io)
+- [x] Start improving my GitHub Website
 - [ ] Fork ~~A Potato🥔~~ ***MORE Repositories***
 - [ ] *Start* **Modding *Forked* Repositories**
 - [ ] *Start **deploying** more Repositories* into [Replit](https://replit.com) and [Koyeb](https://koyeb.com)
