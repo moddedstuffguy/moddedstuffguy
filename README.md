@@ -33,7 +33,7 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [ ] *Start* using **Koyeb**
 - [x] *Register* on **Vercel**
 - [ ] *Start* using **Vercel**
-- [x] Add stats to my PROFILE! 
+- [x] *Add stats* to **my PROFILE!**
 
 ## My best repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=GeneralMathsMOD&theme=synthwave)](https://github.com/moddedstuffguy/GeneralMathsMOD)
