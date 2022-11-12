@@ -37,8 +37,9 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [x] *Start* using **Heroku**
 - [x] *Add stats* to **my PROFILE!**
 
-## My best repositories
+## My best modded repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=GeneralMathsMOD&theme=synthwave)](https://github.com/moddedstuffguy/GeneralMathsMOD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=ZenoMOD&theme=cobalt)](https://github.com/moddedstuffguy/ZenoMOD)
 
 ## My Stats
 ![My STATS](https://raw.githubusercontent.com/moddedstuffguy/mySTATS/master/generated/overview.svg#gh-dark-mode-only)
