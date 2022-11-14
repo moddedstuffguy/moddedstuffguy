@@ -39,6 +39,7 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 
 ## My best modded repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=GeneralMathsMOD&theme=synthwave)](https://github.com/moddedstuffguy/GeneralMathsMOD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=WomginxMOD&theme=merko)](https://github.com/moddedstuffguy/WomginxMOD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=ZenoMOD&theme=cobalt)](https://github.com/moddedstuffguy/ZenoMOD)
 
 ## My Stats
