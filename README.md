@@ -30,9 +30,9 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [x] *Start **deploying** more Repositories* into [Replit](https://replit.com), [Koyeb](https://koyeb.com) and [Heroku](https://heroku.com)! 
 - [x] *Search* for ***another*** website that *allows* the user to ***edit*** the *source code* (Such as **Replit**) and deploy/run it.
 - [x] *Register* on **Koyeb**
-- [ ] *Start* using **Koyeb**
+- [x] *Start* using **Koyeb**
 - [x] *Register* on **Vercel**
-- [ ] *Start* using **Vercel**
+- [x] *Start* using **Vercel**
 - [x] *Register* on **Heroku**
 - [x] *Start* using **Heroku**
 - [x] *Add stats* to **my PROFILE!**
