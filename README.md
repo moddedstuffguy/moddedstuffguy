@@ -8,13 +8,21 @@
 This profile has the *purpose* of **modding** some stuff and uploading it into this github (Look at **"Kind of Stuff"** section if you wanna see what kind of stuff I could upload). This stuff can be from **my *OWN CREATION*** or from *other **developers*** (in this case the **corresponding *DEV*** will be ***credited/mentioned*** in the repository's README)
 
 ## Kind of Stuff
-### Modded Stuff includes:
-> - ~~***Modded* APKs**~~ (Probably I am **not** going to *mod* APKs)
+### Modded Stuff
+#### Modded Stuff includes:
+> - ~~***Modded* APKs**~~
 > - ***Modded*** Github :octocat: Stuff
 >   - ***Modded*** Websites
 >   - ***Modded*** Scripts
 >   - ***Modded*** Python Programs
 > - ***Modded*** Tools
+### Stuff of my own (made by ModdedStuffGuy)
+#### Stuff of my Own (made my ModdedStuffGuy) include:
+> - Scripts
+> - Websites
+> - Python programs
+> - Tools
+> - Other kind of stuff
 
 ## My Task List:
 - [x] Create ***Github :octocat: Profile***
@@ -36,8 +44,11 @@ This profile has the *purpose* of **modding** some stuff and uploading it into t
 - [x] *Register* on **Heroku**
 - [x] *Start* using **Heroku**
 - [x] *Add stats* to **my PROFILE!**
+- [ ] *Start* with *Javascript **lessons***
+- [ ] *Start* with *HTML5 **lessons***
+- [x] *Start* with *Python3 **lessons*** *(Partially done (As I have some courses purchased but I have to start with them))*
 
-## My best modded repositories
+## My BEST modded repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=GeneralMathsMOD&theme=synthwave)](https://github.com/moddedstuffguy/GeneralMathsMOD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=WomginxMOD&theme=merko)](https://github.com/moddedstuffguy/WomginxMOD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moddedstuffguy&repo=ZenoMOD&theme=cobalt)](https://github.com/moddedstuffguy/ZenoMOD)
